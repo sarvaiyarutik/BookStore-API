@@ -337,6 +337,22 @@ Possible future improvements:
 
 ---
 
+# POST Data 
+<img width="1096" height="932" alt="image" src="https://github.com/user-attachments/assets/833a76e2-82e0-45d0-b101-7370cc23c3c0" />
+
+#Get All
+<img width="1084" height="935" alt="Screenshot 2026-10-06 161735" src="https://github.com/user-attachments/assets/fe1da89d-2a23-45f3-a548-a1de7fdc4da1" />
+
+#Get By Id 
+<img width="1107" height="993" alt="Screenshot 2026-10-06 161751" src="https://github.com/user-attachments/assets/87d1a2ca-a85b-4284-8f67-beff8c43e15d" />
+
+#Delete 
+<img width="1123" height="995" alt="Screenshot 2026-10-06 161822" src="https://github.com/user-attachments/assets/199bec4b-b6c4-4a79-969b-c4af3e7f6113" />
+
+#Update
+<img width="1375" height="972" alt="image" src="https://github.com/user-attachments/assets/4c534589-0d8b-4087-9b9f-98b3ee284842" />
+
+
 # 👨‍💻 Author
 
 **Rutik Sarvaiya**
